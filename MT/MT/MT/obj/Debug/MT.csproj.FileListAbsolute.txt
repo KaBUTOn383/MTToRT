@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\MT\MT\MT\bin\Debug\MT.exe.config
+C:\Users\User\Desktop\MT\MT\MT\bin\Debug\MT.exe
+C:\Users\User\Desktop\MT\MT\MT\bin\Debug\MT.pdb
+C:\Users\User\Desktop\MT\MT\MT\obj\Debug\MT.exe
+C:\Users\User\Desktop\MT\MT\MT\obj\Debug\MT.pdb
+C:\Users\User\Desktop\MT\MT\MT\obj\Debug\MT.csprojAssemblyReference.cache
